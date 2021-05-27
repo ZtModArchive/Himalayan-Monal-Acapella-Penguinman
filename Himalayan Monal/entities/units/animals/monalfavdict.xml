@@ -1,0 +1,7 @@
+<BFParticleDictionary>
+     <monalEmote>
+      <Conditions>
+         <BFParticleDefinition xmlFile="entities\units\animals\monal\monalEmote.xml" removeTime="10.0"/>
+      </Conditions>
+   </monalEmote>
+   </BFParticleDictionary>

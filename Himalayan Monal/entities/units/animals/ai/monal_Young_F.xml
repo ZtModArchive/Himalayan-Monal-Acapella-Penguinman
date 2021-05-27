@@ -1,0 +1,32 @@
+<BFTypedBinder binderType="monal_Young_F">
+   <types>
+      <entity>
+         <actor>
+            <animal>
+               <Aves>
+                  <Galliformes>
+                     <Phasianidae>
+                        <monal>
+                           <monal_Young>
+                              <monal_Young_F/>
+                           </monal_Young>
+                        </monal>
+                     </Phasianidae>
+                  </Galliformes>
+               </Aves>
+            </animal>
+         </actor>
+      </entity>
+   </types>
+   <instance>
+      <BFGEntity/>
+   </instance>
+   <shared>
+      <UIToggleButton template="adopt">
+         <on>
+            <event msg="ZT_SETPLACEMENTOBJECT" data="BFString" string="monal_Young_F"/>
+         </on>
+      </UIToggleButton>
+      <BFAIEntityDataShared b_Male="0"/>
+   </shared>
+</BFTypedBinder>

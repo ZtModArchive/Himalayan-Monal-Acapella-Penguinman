@@ -1,0 +1,139 @@
+﻿<ZT2Strings>
+   <entityname>
+      <!--animal names-->
+      <monal>Himalayan Monal</monal>
+      <monal_stt>Himalayan Monal</monal_stt>
+      <monal_lower>the Himalayan Monal</monal_lower>
+      <monal_ltt>
+         <color r="255" g="248" b="178">
+            <b>Himalayan Monal</b>
+         </color>
+         <br/>
+         Click to select and then place a Himalayan Monal, a beautiful alpine bird.
+      </monal_ltt>
+<!--egg names-->
+      <monal_Egg>Himalayan Monal egg</monal_Egg>
+      <monal_Egg_stt>Himalayan Monal egg</monal_Egg_stt>
+      <monal_Egg_lower>the Himalayan Monal egg</monal_Egg_lower>
+      <monal_Egg_ltt>
+         <color r="255" g="248" b="178">
+            <b>Himalayan Monal Egg</b>
+         </color>
+         <br/>
+         Click this icon to select the Himalayan Monal egg. Move the cursor over the world and click to place the little Himalayan Monal egg.
+       </monal_Egg_ltt>
+      <!--gift names-->
+      <monal_Gift>Himalayan Monal backpack</monal_Gift>
+      <monal_Gift_stt>Himalayan Monal backpack</monal_Gift_stt>
+      <monal_Gift_lower>the Himalayan Monal backpack</monal_Gift_lower>
+      <monal_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>Himalayan Monal backpack</b>
+         </color>
+         <br/>Guests who enjoy watching the Himalayan Monal will buy this gift.
+      </monal_Gift_ltt>
+   </entityname>
+   <zoopedia_monal>
+      <entry>Monal, Himalayan</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+                  <img src="entities/units/animals/monal/monal_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+               </cell>
+               <cell width="16">
+                  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+               </cell>
+               <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+                  <img src="entities/units/animals/monal/monal_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+               </cell>
+               <cell width="16">
+                  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+               </cell>
+               <cell width="60"/>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Alpine<br/></color>
+                  <img src="ui/icon_biomes/icon_alpine.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Asia<br/></color>
+                  <img src="ui/icon_maplocations/alpine_Asia.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284">
+                  <color r="255" g="255" b="255">Class: Birds <i>(Aves)</i><br/>Order: Gamebirds <i>(Galliformes)</i><br/>Family: Pheasants <i>(Phasianidae)</i><br/>Genus: Monals <i>(Lophophorus)</i><br/>Species:<i>impeyanus</i><br/>Conservation Status: <color r="51" g="255" b="51">Low Risk</color></color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/alpine_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Fun Himalayan Monal Facts</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">The Himalayan Monal is the national bird of Nepal.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Conservation Status: Unprotected, considered to be stable.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Diet in the Wild: Monals feed on a variety of seeds, buds, shoots, roots, and some small mammals in the wild.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Made by Penguinman with skins by Acapella.</color>
+               </cell>
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">To unlock the Himalayan Monal in challenge or campaign games, you must earn a 1/2-star zoo fame rating for your zoo.</color>
+            <p/>Geographical Range: The Himalayan Mountains, from eastern Afghanistan to western China
+            <p/>Habitat: These pheasants live in mountainous regions.
+In the summer they live in grass and rock covered meadows.
+In the winter they prefer coniferous, and mixed forests.
+            <p/>Physical Description:
+The males of this species look quite different from the females of the species. The male Himalayan Monals have bright and colorful feathers of blue, green, purple, and red. They have a white patch of  feathers underneath the base of their tail, but the rest of their underside is black. The males also have a crest on top of their heads. Both the male and female of the species have blue circles of skin around their eyes. The females and the chicks have an overall brown appearance. Their feathers also have white and black strips on certain parts. The females have a white throat. The male chicks resemble the females chicks until a little after a year when they begin to become more colorful. Before then you could tell the young male and females apart because of their larger size and black feathers on the chest in place of the white.
+            <p/>Social Organization::
+In captivity these birds are usually kept in pairs of male and females. Sometimes they are kept in groups of three. The birds may be separated in the winter from the other sex. The males use loud caling to sow ehere they are daily at least.Locations of individual males are apparently advertised by loud daily calling.  The males generally hang out in groups of two to three, but in the springtime they are a little more territorial. In the winter it is common for females to stay in groups of about twenty. SOmetimes there may even be a male or two that has joined one of these groups. The females are considered to be rather friendly, and the males generaly only show aggression in the mating season.
+
+            <p/>Special Adaptations:
+ Their are sharp edges on the bird's mandible that are important in cutting and splitting plants that are very tough. The birds forage with their shovel-like beaks, sometimes digging holes as deep as a foot. They do this instead of using their feet as some other birds. 
+       
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Made By Penguinman with skins by Acapella. Content from http://www.whozoo.org/Intro2003/AprilStJ/AS_himalayanMonalfinal.html.
+         </cell>
+      </text>
+   </zoopedia_monal>
+</ZT2Strings>
